@@ -17,7 +17,7 @@ Proyek ini bertujuan untuk menganalisis data zakat dan membuat visualisasi yang 
 
 Berikut adalah visualisasi distribusi zakat berdasarkan kategori:
 
-![Distribusi Zakat](visualisasi/zakat_data_analis.pdf)
+Untuk melihat laporan PDF secara lengkap, klik [di sini untuk mengunduh laporan zakat](assets/zakat_report.pdf).
 
 ## Instalasi
 
